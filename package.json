@@ -1,0 +1,22 @@
+{
+  "name": "colladaloader2asmodule",
+  "version": "1.0.0",
+  "description": "ColladaLoader2 as a module",
+  "main": "ColladaLoader2asModule.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/blackyukon/ColladaLoader2asModule.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/blackyukon/ColladaLoader2asModule/issues"
+  },
+  "homepage": "https://github.com/blackyukon/ColladaLoader2asModule#readme",
+  "dependencies": {
+    "user": "0.0.0"
+  }
+}
