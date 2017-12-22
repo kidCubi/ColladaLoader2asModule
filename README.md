@@ -15,7 +15,7 @@
 `import ColladaLoader from 'colladaloader2asmodule' `
 <br/>
 <br/>
-`var loader = new ColladaLoader();`
+`const loader = new ColladaLoader();`
 
 `loader.load(pathName, (file) => { //do stuff });`
 
@@ -24,6 +24,6 @@
 `var ColladaLoader = require('colladaloader2asmodule');`
 <br/>
 <br/>
-`const loader = new ColladaLoader();`
+`var loader = new ColladaLoader();`
 
 `loader.load(pathName, (file) => { //do stuff });`
