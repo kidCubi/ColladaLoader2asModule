@@ -13,6 +13,8 @@
 ### ES6
 
 `import ColladaLoader from 'colladaloader2asmodule' `
+<br/>
+<br/>
 `var loader = new ColladaLoader();`
 
 `loader.load(pathName, (file) => { //do stuff });`
