@@ -1,6 +1,6 @@
 {
   "name": "colladaloader2asmodule",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "ColladaLoader2 as a module",
   "main": "ColladaLoader2asModule.js",
   "scripts": {
